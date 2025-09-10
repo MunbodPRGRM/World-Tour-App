@@ -1,6 +1,6 @@
-# flutter_application_2
+# World Tour App
 
-A new Flutter project.
+งานที่ให้ทำในคาบวิชา 1204303 การพัฒนาโปรแกรมประยุกต์บนอุปกรณ์พกพา
 
 ## Getting Started
 
