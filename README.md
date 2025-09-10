@@ -3,15 +3,10 @@
 งานที่ให้ทำในคาบวิชา 1204303 การพัฒนาโปรแกรมประยุกต์บนอุปกรณ์พกพา
 
 ## Getting Started
+ถ้าโหลดเป็น zip แล้วแตกไฟล์ออกมาแต่มันขึ้นแดงทุกไฟล์ ให้ลอง run คำสั่งพวกนี้
 
-This project is a starting point for a Flutter application.
+-ลบไฟล์ที่สร้างขึ้นมาอัตโนมัติ และไฟล์ชั่วคราวที่ไม่จำเป็นออกไปก่อน ด้วยคำสั่ง
+flutter clean
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# World-Tour-App" 
+-ติดตั้งแพ็กเกจใหม่ที่ระบุไว้ในไฟล์ pubspec.yaml ด้วยคำสั่ง
+flutter pub get
