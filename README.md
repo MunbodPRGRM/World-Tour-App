@@ -12,3 +12,6 @@ flutter clean
 -ติดตั้งแพ็กเกจใหม่ที่ระบุไว้ในไฟล์ pubspec.yaml ด้วยคำสั่ง
 
 flutter pub get
+
+### เพิ่มเติม
+รูปตัวอย่างของแอปจะอยู่ที่ App_Images
