@@ -16,4 +16,4 @@ flutter pub get
 
 ## เพิ่มเติม
 รูปตัวอย่างของแอปจะอยู่ที่ App_Images
-![My Logo](App_Images/Screenshot_20250910_131055.jpg)
+![My Image](App_Images/Screenshot_20250910_131055.jpg)
